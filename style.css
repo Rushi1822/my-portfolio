@@ -330,14 +330,24 @@ section{
     background-color: #e3a324;
 }
 
-.skills .content .col-right .bar .python::before{
+.skills .content .col-right .bar .oops::before{
     width: 85%;
-    background-color: blue;
+    background-color: #ff6b6b;
 }
 
-.skills .content .col-right .bar .php::before{
-    width: 65%;
-    background-color: #6d7eb8;
+.skills .content .col-right .bar .git::before{
+    width: 85%;
+    background-color: #f1502f;
+}
+
+.skills .content .col-right .bar .github::before{
+    width: 85%;
+    background-color: #333;
+}
+
+.skills .content .col-right .bar .jenkins::before{
+    width: 80%;
+    background-color: #d24939;
 }
 
 /* Services */
